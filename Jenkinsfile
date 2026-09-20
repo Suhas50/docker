@@ -6,7 +6,7 @@ pipeline {
         DOCKER_HUB_USER = 'suhas50'
         IMAGE_NAME      = 'jenkins-docker-ci'
         IMAGE_TAG       = "${BUILD_NUMBER}"
-        REGISTRY_CREDS  = 'docker-hub-credentials'
+        REGISTRY_CREDS  = 'Suhas@123'
     }
 
     stages {
