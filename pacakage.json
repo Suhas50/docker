@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-docker-ci",
+  "version": "1.0.0",
+  "description": "Docker Jenkins CI Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
